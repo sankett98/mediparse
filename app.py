@@ -13,8 +13,8 @@ st.markdown("""
     <style>
     /* Hide Streamlit Default UI */
     #MainMenu {visibility: hidden;}
-    footer {visibility: hidden;}
-    header {visibility: hidden;}
+    #footer {visibility: hidden;}
+    #header {visibility: hidden;}
 
     /* Gradient Typography for Title Only */
     .hero-title {
